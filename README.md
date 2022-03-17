@@ -1,2 +1,3 @@
-# eliranhaze.github.io
+# Eliran Haziza
+
 Personal website
